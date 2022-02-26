@@ -1,0 +1,1249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A slaunderous libell (cast abroad) vnto an epitaph set forth vpon the death of D.E. Boner, with a reply to the same lying libell, by T. Broo</title>
+            <author>Broke, Thomas, fl. 1570.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1569</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73566</idno>
+            <idno type="STC">STC 3817.7</idno>
+            <idno type="STC">ESTC S124651</idno>
+            <idno type="EEBO-CITATION">99898975</idno>
+            <idno type="PROQUEST">99898975</idno>
+            <idno type="VID">150809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1982:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A slaunderous libell (cast abroad) vnto an epitaph set forth vpon the death of D.E. Boner, with a reply to the same lying libell, by T. Broo</title>
+                  <author>Broke, Thomas, fl. 1570.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Iohn Daye, dwellyng ouer Aldersgate,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1569?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T. Broo. = Thomas Broke; signed at end T. Brooke the younger.</note>
+                  <note>Date of publication from STC.</note>
+                  <note>Signatures: A B⁴</note>
+                  <note>Reproduction of original in the Pembroke College, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bonner, Edmund, 1500?-1569 --  Controversial literature --  Early works to 1800.</term>
+               <term>Bonner, Edmund, 1500?-1569 --  Poetry --  Early works to 1800.</term>
+               <term>Catholic Church --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150809:1" rendition="simple:additions"/>
+            <p>
+               <g ref="char:cross">✚</g> 
+               <hi>A ſlaun<g ref="char:EOLhyphen"/>derous Libell (caſt abroad) vnto an Epi<g ref="char:EOLhyphen"/>taph</hi> ſet forth vpon the death of D. E. Boner, with a Reply to the ſame lying Libell, <hi>by T. Broo.</hi>
+            </p>
+            <figure/>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Imprinted at Lon<g ref="char:EOLhyphen"/>don by</hi> Iohn Daye, <hi>dwelling ouer Alderſgate.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="libel">
+            <pb facs="tcp:150809:2"/>
+            <head>The Libell.</head>
+            <lg>
+               <l>Who ſo ſp eaketh that he ſhould not:</l>
+               <l>muſt heare what he would not.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">M</seg>Arch forth in malice brauling Brooke,</l>
+               <l>let taunting tounge haue no reſtraint:</l>
+               <l>Spew our the worſt thou canſtinuent,</l>
+               <l>againſt this Boner bleſſed ſaint.</l>
+            </lg>
+            <lg>
+               <l>Spare not to ſpeake moſt ſlaunderous ſpeach,</l>
+               <l>againſt this Prelate dead and gone:</l>
+               <l>Declare thy ſelfe like furious dogge,</l>
+               <l>to bite and barke at euery ſtone.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>At length I finde thy lies I waigh not:</l>
+               <l>Truth bids me anſwere altho I would not.</l>
+            </lg>
+            <lg>
+               <l>NO malice moued hath my minde,</l>
+               <l>nor tauntingly the truth I penne:</l>
+               <l>No ſpite did cauſe me to depaint,</l>
+               <l>this <hi>Boner</hi> ſaint of Sathans denne.</l>
+            </lg>
+            <lg>
+               <l>Where as the deuill beares the croſſe,</l>
+               <l>a holy ſort it ſhould appeare:</l>
+               <l>If <hi>Boner</hi> be a bleſſed ſaint,</l>
+               <l>then cruell <hi>Nero</hi> neede not feare.</l>
+            </lg>
+            <lg>
+               <l>The ſlaughter houſe had open wrong,</l>
+               <l>that <hi>Boner</hi> was a Byſhop made:</l>
+               <l>And Newgate loſt his right that day,</l>
+               <l>ſo ſkilfull he in Baylers trade.</l>
+            </lg>
+            <lg>
+               <l>No madde braine moode hath me prouokt,</l>
+               <l>nor <hi>Boner</hi> dead I ought deſpite:</l>
+               <l>Which thou mightſt ſee with open eyes,</l>
+               <l>but <hi>Boner</hi> like thou hatſt the light.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:2"/>
+               <l>But loe from thee now flaſcheth forth,</l>
+               <l>the burning ſprite of <hi>Boners</hi> breſt:</l>
+               <l>Which wonted was in wilfull ſort,</l>
+               <l>the law and truth with wrong to wreſt.</l>
+            </lg>
+            <lg>
+               <l>Yet for I heard of ſome ſo fonde,</l>
+               <l>to thinke that he was wronged much:</l>
+               <l>A peece (not all) of his leude lite,</l>
+               <l>I thought no ſhame or ſinne to touch.</l>
+            </lg>
+            <lg>
+               <l>I coulde haue tolde the numbers, great</l>
+               <l>of vices vile the viper had:</l>
+               <l>Whoſe fury fell and franticke force,</l>
+               <l>oft honeſt hartes with care hath clad.</l>
+            </lg>
+            <lg>
+               <l>And Epitaphes do onely ſerue,</l>
+               <l>the wightes enthrald by <hi>Atropos:</hi>
+               </l>
+               <l>Which els the ſame of their deſertes,</l>
+               <l>or good or badde might happe to loſe.</l>
+            </lg>
+            <lg>
+               <l>Some prayſe the Lawyers iudgementes right,</l>
+               <l>ſome vaunt the warriours worthynes:</l>
+               <l>Some tell the vertues of the wiſe,</l>
+               <l>ſome ſhew of <hi>Boners</hi> blouddynes.</l>
+            </lg>
+            <lg>
+               <l>Not I then like a furious dogge,</l>
+               <l>in death haue ſauage <hi>Boner</hi> bitte:</l>
+               <l>Nor raging I with ſtormy ſtreames,</l>
+               <l>but calmely loe my floudes did flitte.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>Thy rayling tounge againſt good men,</l>
+               <l>is to well knowne ſeuen yeares agoe:</l>
+               <l>What ſlaunders thou againſt him heapeſt,</l>
+               <l>if truth were knowne be nothing ſo.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <pb facs="tcp:150809:3"/>
+            <head>Reply.</head>
+            <lg>
+               <l>Thou doeſt me wrong thus to accuſe,</l>
+               <l>of flaundring any honeſt man:</l>
+               <l>Or now, or ſeuen yeares agoe,</l>
+               <l>name thou the wight if that thou can.</l>
+            </lg>
+            <lg>
+               <l>In rayling thou art <hi>Boners</hi> childe,</l>
+               <l>in ſcoffes, in ſcoldes, in ſlaunders vile,</l>
+               <l>In lyings leude in Popery,</l>
+               <l>it ſeemes thy dame did not begile.</l>
+            </lg>
+            <lg>
+               <l>Moſt like thy dad in euery poynt,</l>
+               <l>yet baſtard none for ought I know:</l>
+               <l>Nor maiden Prieſt as <hi>Boner</hi> was,</l>
+               <l>whoſe children liude not long ago.</l>
+            </lg>
+            <lg>
+               <l>The infernall ſprites do daunce for ioy,</l>
+               <l>to heare this <hi>Boners</hi> babe thus baule:</l>
+               <l>And falſehode fleeres to finde ſuch frendes,</l>
+               <l>as ſeeke with lyes the truth to gaule.</l>
+            </lg>
+            <lg>
+               <l>Is this the iuſt reward I haue,</l>
+               <l>that ſought in ſilence for to hide:</l>
+               <l>The halfe of all his wretchednes,</l>
+               <l>which thou mightſt ſhame to heare diſcride?</l>
+            </lg>
+            <lg>
+               <l>Thou ſheweſt thy ſelfe euen what thou art</l>
+               <l>a bleſſed babe of <hi>Baalams</hi> broode:</l>
+               <l>Not able to maintaine thy part,</l>
+               <l>in ſlaundering ſwelleſt like a tode.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>The law thou thinkeſt is on thy ſide,</l>
+               <l>to rayle at randome as thou liſteſt:</l>
+               <l>And for thy ſlaunderous wordes thou hopeſt,</l>
+               <l>that none ſhould thee reſiſt.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <pb facs="tcp:150809:3"/>
+            <head>Reply.</head>
+            <lg>
+               <l>The law is on my ſide I know,</l>
+               <l>the perfect law of God it is:</l>
+               <l>Which to reproue thou haſt no power,</l>
+               <l>though ſerpent like thou ſubtilly hiſſe.</l>
+            </lg>
+            <lg>
+               <l>This was the practiſe of the Iewes,</l>
+               <l>to cloke their faultes with falſe report:</l>
+               <l>Their curſed crueltie to hide,</l>
+               <l>and ſinnefull ſectes for to ſupport.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>His vertues rare did thee diſpleaſe,</l>
+               <l>for theeues againſt iuſt iudges ſpeake:</l>
+               <l>Till Partha cut his fatall thread,</l>
+               <l>thy woefull wrath thou durſt not wreake.</l>
+            </lg>
+            <lg>
+               <l>Doth Goſpell which thou dooſt profeſſe,</l>
+               <l>teach thee to dip thy penne in gall,</l>
+               <l>And ſo defame ſuch learned men,</l>
+               <l>whom vertue doth to honour call.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>Yea more then rare his vertues were,</l>
+               <l>for vertue none in him did reſt:</l>
+               <l>As time did ſerue I ſought to ſhew,</l>
+               <l>the vices which I ſtill deteſt.</l>
+            </lg>
+            <lg>
+               <l>If I in ought haue <hi>Boner</hi> wrongde,</l>
+               <l>it is in that I not diſplaide:</l>
+               <l>Vnto the full his wretched life,</l>
+               <l>and Pagan Pagentes that he plaide.</l>
+            </lg>
+            <lg>
+               <l>But now ſith that ye geue the cauſe,</l>
+               <l>to thend you Papiſtes ſhould not thinke:</l>
+               <l>Your lying lippes and ſlaundrous wordes,</l>
+               <l>from known truth ſhould make me ſhrink.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:4"/>
+               <l>In playner ſort I iuſtly proue,</l>
+               <l>that <hi>Boner</hi> for his great outrage:</l>
+               <l>Did <hi>Achab</hi> paſſe and <hi>Iezabell,</hi>
+               </l>
+               <l>a <hi>Diocleſian</hi> of our age.</l>
+            </lg>
+            <lg>
+               <l>And if my verſe ſeeme ſomewhat ſharpe,</l>
+               <l>yet from the truth I will not ſwarue:</l>
+               <l>And vnprouokte of enuies roote,</l>
+               <l>yelde milder wordes then ye deſerue.</l>
+            </lg>
+            <lg>
+               <l>Some theeues agaynſt iuſt iudges ſpeake,</l>
+               <l>ſo <hi>Caiphas</hi> did agaynſt his Chriſt:</l>
+               <l>But if that thou call <hi>Boner</hi> iuſt,</l>
+               <l>I well can proue thou ſhamefully lyeſt.</l>
+            </lg>
+            <lg>
+               <l>He oft for meede peruerted right,</l>
+               <l>a cruell tyranne in his dayes:</l>
+               <l>He bolſtered bawdry by his might,</l>
+               <l>and ſimonie by Romiſhe ſayes.</l>
+            </lg>
+            <lg>
+               <l>And thou doeſt follow him apace,</l>
+               <l>to raile and raue without cauſe why:</l>
+               <l>The thinges thou canſt not iuſtly proue,</l>
+               <l>thou fortifieſt with a lye.</l>
+            </lg>
+            <lg>
+               <l>With ſpiders iuice thy penne is wet,</l>
+               <l>no Goſpells lore thy toung doth guide:</l>
+               <l>But <hi>Pluto</hi> or his younglinges ſkill,</l>
+               <l>the poyſoned Pope high prince of pride.</l>
+            </lg>
+            <lg>
+               <l>By falſe hypocriſie we ſee,</l>
+               <l>did <hi>Boner</hi> clime to honours height:</l>
+               <l>And placed there vnworthy he,</l>
+               <l>all vertues wayes deſpiſed ſtraight.</l>
+            </lg>
+            <lg>
+               <l>Yet London may his Minotaure,</l>
+               <l>his <hi>Boner</hi> boaſt for all aſſayes:</l>
+               <l>
+                  <pb facs="tcp:150809:4"/>
+Sith <hi>Becket</hi> neuer bred ſuch bale,</l>
+               <l>nor halfe ſo well the Pope could pleaſe.</l>
+            </lg>
+            <lg>
+               <l>Why did ye not ſhrine him aliue,</l>
+               <l>Saint <hi>Dunſtane</hi> might haue done the deede:</l>
+               <l>Swete ſamt <hi>Fraunces</hi> or <hi>Boniface,</hi>
+               </l>
+               <l>or <hi>Belzebub</hi> for better ſpede.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>We ſee how thou in Rethoricke roolleſt,</l>
+               <l>as one in Schemes and Tropes expert.</l>
+               <l>Frequenting of this figure rare,</l>
+               <l>which ſome men call ſauce malipert.</l>
+            </lg>
+            <lg>
+               <l>What truth in preaching thou declareſt,</l>
+               <l>I am content that other try.</l>
+               <l>In this thy worke I can affirme,</l>
+               <l>that euery line contaynes a lie.</l>
+            </lg>
+            <lg>
+               <l>And euery lie ſo ſhamefully made:</l>
+               <l>ſuckt out from ſaucy fingers end,</l>
+               <l>That ſurely ſome vnhappy ſprite,</l>
+               <l>put to his hand to haue it penned.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>Thou and thy <hi>Boner</hi> bounteles,</l>
+               <l>in natures one ſeme to agree:</l>
+               <l>Two happy wombes from whence the ſprang,</l>
+               <l>the peſtilent fruite of poyſoned tree.</l>
+            </lg>
+            <lg>
+               <l>What <hi>Boner</hi> was right well appeard,</l>
+               <l>while waſtfull will with might was matcht:</l>
+               <l>Such wouldſt thou ſeme in power plaſt,</l>
+               <l>a bounſing boye of <hi>Hidra</hi> hatcht.</l>
+            </lg>
+            <lg>
+               <l>Thy muſe doth march in ſlaunderous ſort,</l>
+               <l>fond rage doth rule thy beaſtly braine:</l>
+               <l>Ceaſe ſhameles tauntyng toung to toyle,</l>
+               <l>in <hi>Boners</hi> caſe with lyes ſo vaine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:5"/>
+               <l>I tolde a troth why dooſt thou lye,</l>
+               <l>tho preacher none to farre vnfit:</l>
+               <l>Forbeare to ſtriue againſt the ſtreame,</l>
+               <l>let reaſon rule thy wreaſtling witte.</l>
+            </lg>
+            <lg>
+               <l>Thou dooſt abuſe thy figure much,</l>
+               <l>that <hi>More</hi> ſo ment thou canſt not proue:</l>
+               <l>It is not ſure Saucemalepert,</l>
+               <l>a knaue of knauery to reproue.</l>
+            </lg>
+            <lg>
+               <l>Thou were but lately at the mill,</l>
+               <l>that ground thy lyes yet ſomewhat groſe:</l>
+               <l>Alas good ſyr how ſaucye I,</l>
+               <l>the ſerpentes ſubtletie to diſcloſe.</l>
+            </lg>
+            <lg>
+               <l>When as the Apoſtles did reproue,</l>
+               <l>the high prieſtes, they were ſayd to ſcold,</l>
+               <l>So I in telling <hi>Boners</hi> faultes,</l>
+               <l>of thee am counted ſauceſe bold.</l>
+            </lg>
+            <lg>
+               <l>But what if I ſhould tell them all,</l>
+               <l>then mightſt thou haue a heauy hart:</l>
+               <l>Poore papiſt ſure thou wouldſt runne mad,</l>
+               <l>for why theſe few doo make thee ſtart.</l>
+            </lg>
+            <lg>
+               <l>The ſpirite that guided hath my pen,</l>
+               <l>is tryed truth I dare auouch:</l>
+               <l>You loth to heare his treachery,</l>
+               <l>becauſe ſuch faultes your ſelfe do touch.</l>
+            </lg>
+            <lg>
+               <l>If vertue had remainde in him,</l>
+               <l>or were thy yeares replete with grace:</l>
+               <l>I would haue reuerenced you both,</l>
+               <l>but to brute beaſtes I geue no place.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>Did he fiue times with ſolemne othe,</l>
+               <l>his Clxiſtian faith deny?</l>
+               <l>
+                  <pb facs="tcp:150809:5"/>
+Did he fiue times renounce the Pope?</l>
+               <l>O ſhamefull famous lye.</l>
+            </lg>
+            <lg>
+               <l>Foure tymes belike before his birth,</l>
+               <l>he did commit the crime:</l>
+               <l>And then the fift thou dooſt declare,</l>
+               <l>was in Lord Cromwels time.</l>
+            </lg>
+            <lg>
+               <l>And then was he but very younge,</l>
+               <l>and knew not chalke from cheſe:</l>
+               <l>Perchaunce as loth as thou art now,</l>
+               <l>promotion for to leeſe.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>That ſondry times he ſworne was,</l>
+               <l>to maintenaunce of chriſtian fayth:</l>
+               <l>His hand doth ſhew forth comming yet,</l>
+               <l>but periured papiſtes this not wayeth.</l>
+            </lg>
+            <lg>
+               <l>Firſt named Archdeacon of Leiceſter,</l>
+               <l>he ſware vnto King <hi>Henries</hi> booke:</l>
+               <l>Then elect biſhop of Hereforde,</l>
+               <l>he ſware againe, the ſtory looke.</l>
+            </lg>
+            <lg>
+               <l>Then paſtor he of London made,</l>
+               <l>agaynſt the Pope he tooke his oth:</l>
+               <l>And when our ſoueraigne borne was,</l>
+               <l>he did the like know this for troth.</l>
+            </lg>
+            <lg>
+               <l>So at the birth of Prince <hi>Edward,</hi>
+               </l>
+               <l>and at his coronation:</l>
+               <l>He ſware agaynſt the Romiſh whore,</l>
+               <l>and her abhomination.</l>
+            </lg>
+            <lg>
+               <l>I leaue how ſtoutely he at Rome,</l>
+               <l>defied the Pope vnto his face:</l>
+               <l>In Scalding lead he had bene boylde,</l>
+               <l>but that he packt away a pace.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:6"/>
+               <l>Thou ſayeſt I made a famous lye,</l>
+               <l>but I haue proued my wordes full true:</l>
+               <l>From thoſe thy lines is truth exilde,</l>
+               <l>as from the reſt which doo enſue.</l>
+            </lg>
+            <lg>
+               <l>And for his yeares by thy accompt,</l>
+               <l>full fifty he in <hi>Cromwells</hi> time:</l>
+               <l>O ſhamels man the truth appeares,</l>
+               <l>ſeeke not with lyes to hide his crime.</l>
+            </lg>
+            <lg>
+               <l>Thou ſayeſt he liued foureſcore and ſixe,</l>
+               <l>but thirty one ſince <hi>Cromwell</hi> dyed:</l>
+               <l>Then fifty fiue was <hi>Boners</hi> age,</l>
+               <l>in <hi>Cromwells</hi> time, or thou haſt lyed.</l>
+            </lg>
+            <lg>
+               <l>No baby then a knauiſh foole,</l>
+               <l>a crafty cloyne as now thou art:</l>
+               <l>Thy lines do ſhew how he could clawe,</l>
+               <l>and for aduauntage play his part.</l>
+            </lg>
+            <lg>
+               <l>Promotion ſure I neuer choſe,</l>
+               <l>nor glutted am with worldly pelfe:</l>
+               <l>But though I all at once ſhould loſe,</l>
+               <l>yet would I not forſweare my ſelfe.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>But after he was grounded once,</l>
+               <l>in wiſdomes learned ſchole.</l>
+               <l>He did perceaue and ſore repent,</l>
+               <l>that he had playde the foole.</l>
+            </lg>
+            <lg>
+               <l>And calling then for God his grace,</l>
+               <l>for to inſpire his hart:</l>
+               <l>Perſiſted ſtill in Chriſt his faith.</l>
+               <l>till death did him depart.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>Thou art deceaued he neuer learnd,</l>
+               <l>in ſchole by wiſdomes ſacred lore:</l>
+               <l>
+                  <pb facs="tcp:150809:6"/>
+For to deny the goſpell pure,</l>
+               <l>which he profeſſed had before.</l>
+            </lg>
+            <lg>
+               <l>But Iudas lyke he Chriſt betrayde,</l>
+               <l>a perſecuting <hi>Saul</hi> outright:</l>
+               <l>As <hi>Cain</hi> his ſinnes he did forthincke,</l>
+               <l>profeſſing <hi>Ieroboams</hi> ſprite.</l>
+            </lg>
+            <lg>
+               <l>And as the dogge to vomite turnes,</l>
+               <l>ſo <hi>Boner</hi> leauing wiſdomes ſchole:</l>
+               <l>To wonted lewdnes made repayre,</l>
+               <l>the lenger life the greater foole.</l>
+            </lg>
+            <lg>
+               <l>Wherefore the Lord with drew his ſpirite,</l>
+               <l>and gaue him vp vnto his luſt:</l>
+               <l>Wherein he ranne a ruthfull race,</l>
+               <l>till he returned againe to duſt.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>His yeares on earth with honor ſpent,</l>
+               <l>were three and fourty double tolde:</l>
+               <l>But as for thee thou mayſt be hangde,</l>
+               <l>ere thou be halfe ſo olde.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>Herein the princes mercy ſhines,</l>
+               <l>our noble Queene ſought not his bloud:</l>
+               <l>As he did hers maliciouſly,</l>
+               <l>and ſtubbournely her lawes with ſtoode.</l>
+            </lg>
+            <lg>
+               <l>Her clemency a cureles hart,</l>
+               <l>ſhe thought in time to truth ſhould turne,</l>
+               <l>But vice had vertue chaſed ſo,</l>
+               <l>that grace by no meanes might returne.</l>
+            </lg>
+            <lg>
+               <l>Full thirty yeares now haue I liude,</l>
+               <l>but rather than I would become:</l>
+               <l>So quite deuoyde of ſhame as he,</l>
+               <l>I wiſh to God for ſpeedy dome.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:7"/>
+               <l>But thou pray for thy ſelfe I ſay,</l>
+               <l>for when both Pope and hope are paſt:</l>
+               <l>To feele thy wretched bodyes waight,</l>
+               <l>a rope may ſerue thy necke at laſt.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>Thou ſayſt that Papiſtes lingring hope,</l>
+               <l>in Byſhop Boner did depend,</l>
+               <l>Which now, ſith death did him preuent,</l>
+               <l>is come thou truſtes to finall ende.</l>
+            </lg>
+            <lg>
+               <l>Well then I frame this argument,</l>
+               <l>a <hi>ſimile</hi> to thee agayne:</l>
+               <l>Sith ſundry of thy ſinfull ſect,</l>
+               <l>by dint of death are ſlayne.</l>
+            </lg>
+            <lg>
+               <l>As Caluine piller of your Church,</l>
+               <l>whome you accompted wiſe:</l>
+               <l>In liewe of his falſe hereſie,</l>
+               <l>was werried vp with lice.</l>
+            </lg>
+            <lg>
+               <l>Sith Luther, author of your ſect,</l>
+               <l>whom Sathans ſchiſmes fed:</l>
+               <l>As dronken ſot, with ſurſetting,</l>
+               <l>was dead found in his bed.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>The lingring hope the papiſtes loſt,</l>
+               <l>was great by <hi>Boners</hi> fatall fall:</l>
+               <l>If not conſumed into care,</l>
+               <l>their pieuiſh pride it did appall.</l>
+            </lg>
+            <lg>
+               <l>That papiſts hoped their watchword ſhewes,</l>
+               <l>
+                  <hi>a due vnto the golden day:</hi>
+               </l>
+               <l>Our God is good who than I truſt,</l>
+               <l>ſhall put you papiſtes by your pray. &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Sometime God doth from anger ſtint,</l>
+               <l>he will not beate his children ſtill:</l>
+               <l>As when he takes tyrantes away,</l>
+               <l>which liue in hope his church to ſpill.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:7"/>
+               <l>Sometime for peoples ſinnes alſo,</l>
+               <l>doth God bereaue their paſtors true:</l>
+               <l>A token of Gods wrath to come,</l>
+               <l>and his diſpleaſure to enſue.</l>
+            </lg>
+            <lg>
+               <l>So <hi>Boner</hi> taken away from vs,</l>
+               <l>fortels the goodnes of our God:</l>
+               <l>And <hi>Luthers</hi> death and <hi>Caluins</hi> both,</l>
+               <l>was to thoſe countries then a rod.</l>
+            </lg>
+            <lg>
+               <l>Our Church on no ſuch pillers ſtandes,</l>
+               <l>on Chriſt the rocke, our fayth is ſtayde:</l>
+               <l>And though ſuch worthy members dye,</l>
+               <l>our hartes thereby are not diſmayde.</l>
+            </lg>
+            <lg>
+               <l>But O thou moſt infamous wretch,</l>
+               <l>I thinke the very diuels of hell:</l>
+               <l>Doo hide their face for very ſhame,</l>
+               <l>their ſonne ſo leud a lye to tell.</l>
+            </lg>
+            <lg>
+               <l>Did <hi>Caluin</hi> dye wearied with liſe?</l>
+               <l>or like a Lambe with ſicknes preſt:</l>
+               <l>Beware leaſt liſe reuenge theſe lyes,</l>
+               <l>by wrath of God on that thy breaſt.</l>
+            </lg>
+            <lg>
+               <l>How <hi>Martin Luther</hi> yelded breath,</l>
+               <l>apparant is by good record:</l>
+               <l>And ſuch a ſtately buriall,</l>
+               <l>hath wanted many a prince and Lord.</l>
+            </lg>
+            <lg>
+               <l>O ſtiffe neckt Iewe that neuer ſtenteſt,</l>
+               <l>Chriſtes followers for to defame:</l>
+               <l>With gluttony and dronkenes,</l>
+               <l>the troth is knowne and breedes thy ſhame.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Boner</hi> was no ſurfetor,</l>
+               <l>by faſt and prayer he pined ſo:</l>
+               <l>
+                  <pb facs="tcp:150809:8"/>
+That vnneth he had an eye to ſee,</l>
+               <l>for fatte he ſcarſely well might go.</l>
+            </lg>
+            <lg>
+               <l>The Imber dayes he well obſerud,</l>
+               <l>with fiſh from Sea and runnyng ſtreme:</l>
+               <l>And that but baſe of common ſort,</l>
+               <l>as Cunger, Brett, Pike, Carpe, &amp; Breme.</l>
+            </lg>
+            <lg>
+               <l>He faſted oft till hunger came,</l>
+               <l>he ſpared much the poore mans beefe:</l>
+               <l>With Quaile and Partrege he tooke paine,</l>
+               <l>fatte Capons were his chiefe reliefe.</l>
+            </lg>
+            <lg>
+               <l>In ſtede of groſeſt Mutton pies,</l>
+               <l>the fatteſt Venſon from parke and chaſe:</l>
+               <l>Both hotte and colde, and that good ſtore,</l>
+               <l>with wine he waſhed downe apace.</l>
+            </lg>
+            <lg>
+               <l>He had a care for Horſe and Mule,</l>
+               <l>and kept their branne out of his bread:</l>
+               <l>On fineſt manchet that was made,</l>
+               <l>alas this ſely <hi>Boner</hi> fedde.</l>
+            </lg>
+            <lg>
+               <l>And ſith the Thames was ſomewhat farre,</l>
+               <l>or Cundite water clere and fine:</l>
+               <l>His morning draught was Ipocras,</l>
+               <l>or els the pureſt Muſcadine.</l>
+            </lg>
+            <lg>
+               <l>For noriſhing he loude a Pigge,</l>
+               <l>
+                  <hi>et non tam caute</hi> but I heare:</l>
+               <l>When hauty hartes were hard to haue,</l>
+               <l>he was content with Fallow Deare. &amp;c.</l>
+            </lg>
+            <lg>
+               <l>He watched when as he could not ſleepe,</l>
+               <l>he prayde that ye might heare him ſnort:</l>
+               <l>In ſtede of bordes on beddes of downe,</l>
+               <l>thus was this pynyng Prelates hurt.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:8"/>
+               <l>To recreate his ſprites he vſde,</l>
+               <l>Boules, Cardes, &amp; Tables, all day long:</l>
+               <l>And ſet vpon his mery pinne,</l>
+               <l>could ſometime ſing a baudy ſong. &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But ſith thou dooſt delight to heare,</l>
+               <l>of ſuch as dyed in diſtreſſe:</l>
+               <l>Though <hi>Luther</hi> and <hi>Caluin</hi> both were cleare,</l>
+               <l>loe here at leaſt a miſcheuous meſſe.</l>
+            </lg>
+            <lg>
+               <l>Pope <hi>Adrian,</hi> your bleſſed ſire,</l>
+               <l>in breathing threates agaynſt a king:</l>
+               <l>An vgly Fly with ſodayne death,</l>
+               <l>his holines at throat did ſting.</l>
+            </lg>
+            <lg>
+               <l>The greateſt foe that <hi>Luther</hi> had,</l>
+               <l>
+                  <hi>Eckius</hi> yelding vp the ghoſt:</l>
+               <l>Did ſay: foure thouſand crownes preparde,</l>
+               <l>will this diſpatch (a iolly boaſt).</l>
+            </lg>
+            <lg>
+               <l>A heauenly end no doubt he made,</l>
+               <l>he had ſome Cardinalſhip to buy:</l>
+               <l>He thought (as <hi>Boner)</hi> on his God,</l>
+               <l>which forſt him thus on him to cry.</l>
+            </lg>
+            <lg>
+               <l>Cardinall <hi>Cretenſius</hi>
+               </l>
+               <l>dyed, with ſight of a blacke dogge:</l>
+               <l>In ruth ended <hi>Bomelius,</hi>
+               </l>
+               <l>and <hi>Thornton</hi> that beaſtly hog.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Iacobus Latomus</hi> hauing made,</l>
+               <l>gaynſt <hi>Luther</hi> an oration long:</l>
+               <l>Fell ſtraight to deſperation,</l>
+               <l>and ended ſo his wofull ſong.</l>
+            </lg>
+            <lg>
+               <l>Lord <hi>Poncher,</hi> and <hi>Minerius,</hi>
+               </l>
+               <l>with fire of God were ſtricken ſo:</l>
+               <l>
+                  <pb facs="tcp:150809:9"/>
+And while their fleſh conſumde therewith,</l>
+               <l>defied God as mortall foe.</l>
+            </lg>
+            <lg>
+               <l>Our Cardinall <hi>Poole</hi> in Grenewich houſe,</l>
+               <l>did bleſſe the Douer Suffragane:</l>
+               <l>While kneeling downe vpon the ſtraires,</l>
+               <l>receiude it like a holy man.</l>
+            </lg>
+            <lg>
+               <l>The bleſſing geuen the bleſſed fell,</l>
+               <l>downe from the ſtaires his necke he braſt:</l>
+               <l>I thinke the diuell might haue geuen,</l>
+               <l>as good a bleſſing with leſſe haſt.</l>
+            </lg>
+            <lg>
+               <l>Theſe were the patrones of your Church,</l>
+               <l>bleſſed biſhops <hi>Boner</hi> like:</l>
+               <l>Great tormenters of Chriſtes flocke,</l>
+               <l>O feare the Lord leaſt he do ſtrike.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>Sith Prince of Conde, all your hope,</l>
+               <l>your buckler and your ſhielde,</l>
+               <l>As traytor falſe againſt his Prince,</l>
+               <l>was ſtayne in open fielde.</l>
+            </lg>
+            <lg>
+               <l>The Prince of Orange put to flight,</l>
+               <l>with all his band diſmayd:</l>
+               <l>You heretiques muſt needes confeſſe,</l>
+               <l>your courage quite decayde.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>Of noble princes for to write,</l>
+               <l>it is to farre without my reach:</l>
+               <l>But if thou hadſt a ſubiectes heart,</l>
+               <l>then wouldſt thou vſe more ſeemely ſpeach,</l>
+            </lg>
+            <lg>
+               <l>Thou ſheweſt well thy trayterous minde,</l>
+               <l>vnto thy prince and natiue land:</l>
+               <l>A rope, a rope for that parot,</l>
+               <l>or <hi>(Boners</hi> bountie) a fire brand.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:9"/>
+               <l>I know the Prince of <hi>Conde</hi> ſlayne,</l>
+               <l>and ſo your manly Duke of <hi>Guiſe:</hi>
+               </l>
+               <l>The king of <hi>Nauarre</hi> bid like payne,</l>
+               <l>Duke <hi>Mommorancy</hi> in likewiſe.</l>
+            </lg>
+            <lg>
+               <l>The Duke of <hi>Alba</hi> his ſonne is dead,</l>
+               <l>what prayſe his father wonne that time:</l>
+               <l>I doo not tell or neede not write,</l>
+               <l>for why ſo hye I will not clime.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>Thy ſlaundering him with tiranny,</l>
+               <l>in ſuch a ſpitefull ſort:</l>
+               <l>Might make ſome men which knew him not,</l>
+               <l>beleue thy falſe report.</l>
+            </lg>
+            <lg>
+               <l>Thou ſayeſt that from the face of ſome,</l>
+               <l>with clawes he rent the heare:</l>
+               <l>But where, or when, or names of them,</l>
+               <l>that canſt thou not declare.</l>
+            </lg>
+            <lg>
+               <l>But when gaue he reprochfull wordes,</l>
+               <l>or ſuch diſdainfull eyes:</l>
+               <l>Vnto the Queenes commiſſioners,</l>
+               <l>a whetſtone for theſe lyes.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>Thou breathyng forth with baſhles brow,</l>
+               <l>of lewd lyes loe a monſtrous heape:</l>
+               <l>Dooſt me accuſe moſt wrongfully,</l>
+               <l>the ſhame therof be ſure to reape.</l>
+            </lg>
+            <lg>
+               <l>His tyranny doth ſo appeare,</l>
+               <l>agayne I nede it not report:</l>
+               <l>How many wayes in wilfull wiſe,</l>
+               <l>or after what a ſhameleſſe ſort.</l>
+            </lg>
+            <lg>
+               <l>Firſt clapt he men in priſon ſtrong,</l>
+               <l>till rigourous lawes were framed wherby:</l>
+               <l>
+                  <pb facs="tcp:150809:10"/>
+With cloke of right he might conſume,</l>
+               <l>all ſuch as would not Chriſt deny.</l>
+            </lg>
+            <lg>
+               <l>The law ſo made Chriſtes flocke to ſpoyle,</l>
+               <l>could <hi>Boners</hi> fury nothyng ſwage:</l>
+               <l>But that his bloudy handes muſt helpe,</l>
+               <l>them to torment in wilfull rage.</l>
+            </lg>
+            <lg>
+               <l>Some with his fiſt he beat ſo ſore,</l>
+               <l>vpon the face that ſwollen blacke:</l>
+               <l>The ſelly ſoules condemned to dye,</l>
+               <l>did bryng his marke vnto the ſtake.</l>
+            </lg>
+            <lg>
+               <l>Poore <hi>Tomkins</hi> hand did <hi>Boner</hi> burne,</l>
+               <l>this tormenter not ſo content:</l>
+               <l>With cruell clawes from of his face,</l>
+               <l>nye halfe his beard the tyraunt rent.</l>
+            </lg>
+            <lg>
+               <l>Moſt Tiger lyke wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Pagan pawes,</l>
+               <l>the beard of <hi>Rough</hi> in rage extreme:</l>
+               <l>In ſhameles ſort the tyraunt tare,</l>
+               <l>how bleſſed he now may ye deme.</l>
+            </lg>
+            <lg>
+               <l>What ſhould I neede to name the reſt,</l>
+               <l>they lyue that ſaw it with their eyes:</l>
+               <l>Yet falſely thou doeſt me reproue,</l>
+               <l>a mill a mill to grinde thy lyes.</l>
+            </lg>
+            <lg>
+               <l>Of his reprochefull wordes vnmeete,</l>
+               <l>the people are not ignoraunt:</l>
+               <l>And loe I would them now recite,</l>
+               <l>if that thy forged lyes might daunt.</l>
+            </lg>
+            <lg>
+               <l>But tho I had a thouſand proufes,</l>
+               <l>which would auouch my wordes for ſouth:</l>
+               <l>They might not ſerue ſo ſhameles thou,</l>
+               <l>no truth may ſtop thy lying mouth.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:10"/>
+               <l>A Papiſtes gyſe is this I find:</l>
+               <l>the truth with lyes full ouertwhart:</l>
+               <l>Firſt to aſſayle with ſlaunders weyt,</l>
+               <l>and laſt he ſcoldeth out his part.</l>
+            </lg>
+            <lg>
+               <l>Of hys leud lyfe I loth to thinke,</l>
+               <l>to write it all it yerketh me:</l>
+               <l>Tho young I rather wiſhe thee mend,</l>
+               <l>leaſt old thou proue as ill as he.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>Thy ſlaunders all I could confute,</l>
+               <l>but preſent tyme will not ſuffice:</l>
+               <l>Yet will I ſomewhat touch his death.</l>
+               <l>becauſe I ſaw it with myne eyes.</l>
+            </lg>
+            <lg>
+               <l>Thou abſent at his death reporteſt,</l>
+               <l>his face both blacke and blew:</l>
+               <l>But all which ſaw it witneſſe can,</l>
+               <l>how that is moſt vntrue.</l>
+            </lg>
+            <lg>
+               <l>Happy art thou if after death,</l>
+               <l>God graunt to thee this grace:</l>
+               <l>To haue thy ſoule as cleare of hewe,</l>
+               <l>as was this Byſhops face.</l>
+            </lg>
+            <lg>
+               <l>A dolefull end (thou ſayſt) he had,</l>
+               <l>but there thou lyeſt as in the reſt:</l>
+               <l>For he perſiſted ſtill in prayer,</l>
+               <l>whyle any breath was in his breſt.</l>
+            </lg>
+            <lg>
+               <l>He cride God mercy for his ſinnes,</l>
+               <l>which he by frailtie had commit:</l>
+               <l>And armyng hym with ſigne of Croſſe,</l>
+               <l>hys ſoule to God he dyd ſubmit.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>My ſlaunders all thou couldſt confute,</l>
+               <l>I ſlaundred not, why doeſt thou lye?</l>
+               <l>
+                  <pb facs="tcp:150809:11"/>
+Thou lackeſt tyme, nay truth thou wantſt,</l>
+               <l>thy forged falſhode for to try.</l>
+            </lg>
+            <lg>
+               <l>If that thyne eye beheld his end,</l>
+               <l>a wofull ſight to thee I feare:</l>
+               <l>Though abſent, I haue heard report,</l>
+               <l>of honeſter then thou, euen there.</l>
+            </lg>
+            <lg>
+               <l>His keper <hi>Waye</hi> did it declare,</l>
+               <l>with other that beheld his ende:</l>
+               <l>Now if they haue not double tounges,</l>
+               <l>the truth they told they will defende.</l>
+            </lg>
+            <lg>
+               <l>Pray for thy ſelfe, I am not ſicke,</l>
+               <l>or els a better prayer make:</l>
+               <l>My ſoule (I truſt) in better hewe,</l>
+               <l>Chriſt to his mercy ſhall betake.</l>
+            </lg>
+            <lg>
+               <l>Thou doeſt this bloudy <hi>Boner</hi> wrong,</l>
+               <l>in callyng hym a Byſhop ſtill:</l>
+               <l>For he a beaſtly butcher was,</l>
+               <l>the ſelly Lambes of God to kill.</l>
+            </lg>
+            <lg>
+               <l>Tis knowen how long he ſpecheles lay,</l>
+               <l>yet wouldeſt thou hide but God will not:</l>
+               <l>Tho Papiſtes cloke truth will diſcloſe,</l>
+               <l>in ſpite of all their knauiſh knot.</l>
+            </lg>
+            <lg>
+               <l>When ſpeach was gone, ye heard him ſpeake,</l>
+               <l>and call for mercy at the laſt:</l>
+               <l>O ſhameleſſe man thinke on the truth,</l>
+               <l>and call for helpe ere hope be paſt.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>Dolefull to whom was this hys end,</l>
+               <l>to thee or him, to thee I ſmell:</l>
+               <l>For doubtleſſe thou dooſt ſtomacke this,</l>
+               <l>that he ſhould liue and dye ſo well.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <pb facs="tcp:150809:11"/>
+            <head>Reply.</head>
+            <lg>
+               <l>And though his death more milder were,</l>
+               <l>then thoſe his felowes I namde before:</l>
+               <l>I will not iudge but God doth know,</l>
+               <l>what wrath he kept for him in ſtore.</l>
+            </lg>
+            <lg>
+               <l>The wickednes by you maintaind,</l>
+               <l>I hate as deuill and deadly foe:</l>
+               <l>The men I no whit do enuie,</l>
+               <l>let bloudy <hi>Boner</hi> and babell go.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>As for his buriall in the night,</l>
+               <l>ſome malice there was ſhewde:</l>
+               <l>And yet vnto hys bleſſed ſoule,</l>
+               <l>what harme therby enſued.</l>
+            </lg>
+            <lg>
+               <l>Your caſtyng hym to homely pit,</l>
+               <l>in ſuch a theeuiſh place:</l>
+               <l>Can hynder hym nothyng at all,</l>
+               <l>to taſt of heauenly grace.</l>
+            </lg>
+            <lg>
+               <l>For Chriſt hym ſelfe betwene two theeues,</l>
+               <l>did ſuffer bitter payne:</l>
+               <l>Wherby hys glory was increaſt,</l>
+               <l>for euer to remayne.</l>
+            </lg>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>It is a bleſſyng of the Lord,</l>
+               <l>to dye in peace in natiue land:</l>
+               <l>And that the fathers graues ſhould hold,</l>
+               <l>the brethleſſe corps once turnde to ſand.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Boner</hi> could not that obtaine,</l>
+               <l>for God did ſee it was not meete:</l>
+               <l>And cauſde the rulers to commaunde,</l>
+               <l>a worſer place, for hym more fit.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:12"/>
+               <l>Though Chriſt were erucified with theeues,</l>
+               <l>yet buryed was in ſtately tome,</l>
+               <l>With coſtly oyntmentes very deare,</l>
+               <l>ſuch was his heauenly fathers doine.</l>
+            </lg>
+            <lg>
+               <l>But though here were a theefe at hand,</l>
+               <l>no Chriſt to dye or lye by him:</l>
+               <l>Wherfore as it behoueth well,</l>
+               <l>to Sathan loe I leaue his lim.</l>
+            </lg>
+         </div>
+         <div type="libel">
+            <head>The Libell.</head>
+            <lg>
+               <l>Now farewell <hi>Brooke,</hi> and if thou thinke,</l>
+               <l>for all thy learned ſkill:</l>
+               <l>That ſlaunderyng toung can ought auayle,</l>
+               <l>then hardly vſe it ſtill.</l>
+            </lg>
+            <lg>
+               <l>But if thou know the deuill it loues,</l>
+               <l>and God deteſtes the ſame:</l>
+               <l>Repent for that which thou haſt done,</l>
+               <l>and leaue it now for ſhame.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="response">
+            <head>Reply.</head>
+            <lg>
+               <l>How ill a trothleſſe toung beſemes,</l>
+               <l>in thee I ſee that doeſt it vſe:</l>
+               <l>What ſlaundryng lyps do merite ſtill,</l>
+               <l>thou doeſt me learne by thyne abuſe.</l>
+            </lg>
+            <lg>
+               <l>Repentaunce none nede I to craue,</l>
+               <l>for ought that I haue done or ſayd:</l>
+               <l>Gaynſt thee or bloudy <hi>Boner</hi> yet,</l>
+               <l>if that my cauſe be iuſtly wayd.</l>
+            </lg>
+            <lg>
+               <l>But hauyng cleared all thy doubtes,</l>
+               <l>and truly aunſwered thy demaundes:</l>
+               <l>I giue thy gyrdes good leaue to graſe,</l>
+               <l>in blacke obliuions heuy laundes.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150809:12"/>
+               <l>And thus of hidden name adew,</l>
+               <l>thy pieuiſh peale ſo lewdly rong:</l>
+               <l>Declares thy kynd for withered fruite,</l>
+               <l>from rotten ſtocke hath alwayes ſprong.</l>
+            </lg>
+            <lg>
+               <l>Thou doeſt nothyng degenerate,</l>
+               <l>from Papiſtes kynd and ſeede of Baal,</l>
+               <l>Thy grandſire is great Lucifer,</l>
+               <l>his ſonne the Pope, ye lyers all.</l>
+            </lg>
+            <lg>
+               <l>I was in doubt to vſe my pen,</l>
+               <l>in aunſweryng of ſo vile a beaſt:</l>
+               <l>But that I thought my ſilence ſhould,</l>
+               <l>thy cauſeleſſe pride haue much increaſt.</l>
+            </lg>
+            <lg>
+               <l>Then henceforth know I do diſdeyne,</l>
+               <l>one word to write agaynſt thy rime:</l>
+               <l>For loe, my handes I ſhould but ſteine,</l>
+               <l>in touchyng ſuch a peece of ſlime.</l>
+            </lg>
+            <lg>
+               <l>Now rayle and rage in royſtyng wiſe,</l>
+               <l>now ſcolde and ſcoffe thy belly full:</l>
+               <l>Thy truthleſſe toung I force it not,</l>
+               <l>I leaue thee wholly to thy Trull.</l>
+            </lg>
+            <lg>
+               <l>But yet I do beſech the Lord,</l>
+               <l>to mollifie thy ſtony heart:</l>
+               <l>To plant repentaunce by his ſpirite,</l>
+               <l>and all the Papiſtes to conuert.</l>
+            </lg>
+            <lg>
+               <l>Fare well vntill thy golden day,</l>
+               <l>wherin I truſt without delay:</l>
+               <l>All ſuch as would their Chriſt betray. &amp;c.</l>
+               <l>ſhall finde a doome and iudgement day.</l>
+            </lg>
+            <closer>
+               <salute>Fare well.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>T. Brooke
+the younger.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
